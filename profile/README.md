@@ -26,3 +26,13 @@ The club have social media channels on Instagram, Twitter and Facebook and integ
 
 * Instagram posts appear on twitter
 * RSS feed (news items) appear on facebook and twitter.
+
+## Status
+
+[![pages-build-deployment](https://github.com/CLCStriders/striders/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/CLCStriders/striders/actions/workflows/pages/pages-build-deployment)
+
+[![CodeQL](https://github.com/CLCStriders/striders/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/CLCStriders/striders/actions/workflows/codeql-analysis.yml)
+
+## Security
+
+- [See Policy](https://github.com/CLCStriders/striders/security/policy)
