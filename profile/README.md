@@ -18,6 +18,8 @@ Content is written in [markdown](https://daringfireball.net/projects/markdown/) 
 
 The site and DNS records are backed by [CloudFlare](https://www.cloudflare.com/).
 
+We use a [1Password](httpsL//1password.com) as our password manager and enable 2FA/MFA everywhere possible. 
+
 ## Social Media
 
 The club have social media channels on Instagram, Twitter and Facebook and integrations between them. Integrations are provided through a third party service called [IFTTT](https://ifttt.com) (If This Then That)
