@@ -31,8 +31,34 @@ The club have social media channels on Instagram, Twitter and Facebook and integ
 
 [![pages-build-deployment](https://github.com/CLCStriders/striders/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/CLCStriders/striders/actions/workflows/pages/pages-build-deployment)
 
-[![CodeQL](https://github.com/CLCStriders/striders/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/CLCStriders/striders/actions/workflows/codeql-analysis.yml)
+[![CodeQL](https://github.com/CLCStriders/striders/actions/workflows/codeql.yml/badge.svg)](https://github.com/CLCStriders/striders/actions/workflows/codeql.yml)
+
+[![GitHub issues](https://img.shields.io/github/issues/clcstriders/striders.svg)](https://github.com/clcstriders/striders/issues)
 
 ## Security
 
 - [See Policy](https://github.com/CLCStriders/striders/security/policy)
+
+## Code of conduct
+
+To maintain an orderly, productive, and fun environment, the _CLC Striders_ project have a few guidelines that we ask people to adhere to when they are participating in contributing to the project. These guidelines apply equally to everyone within the _CLC Striders_ project. Likewise, they apply to all spaces managed by the _CLC Striders_ project, both online and offline. This includes GitHub repositories, chat rooms, in-person events, and any other communication channels.
+
+- Be welcoming, friendly, patient, kind and respectful.
+- Be cautious with how you word things. Our goal is to remain professional, open, welcoming and accepting.
+- When we disagree, try to understand why.
+
+## Contributing
+
+Contributions from the public are welcome.
+
+### Using the issue tracker
+
+The issue tracker is the preferred channel for bug reports and features requests. 
+
+### Issues and labels
+
+The bug tracker utilises several labels to help organize and identify issues.
+
+### Guidelines for bug reports
+
+Use the GitHub issue search — check if the issue has already been reported.
